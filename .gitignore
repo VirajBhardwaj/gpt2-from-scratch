@@ -5,3 +5,5 @@ __pycache__/
 data/
 .ipynb_checkpoints/
 .venv/
+edu_fineweb10B/
+input.txt
